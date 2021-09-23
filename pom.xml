@@ -6,7 +6,7 @@
 
   <groupId>it.uom.cse</groupId>
   <artifactId>cse-workshop</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>cse-workshop</name>
 
@@ -31,7 +31,7 @@
 2 <repository>
 3 <id>github</id>
 4 <name>GitHub Packages</name>
-5 <url>https://maven.pkg.github.com/SamindraKumari99/<repository></url>
+5 <url>https://maven.pkg.github.com/SamindraKumari99/cse-workshop</url>
 6 </repository>
 7 </distributionManagement>
   <build>
