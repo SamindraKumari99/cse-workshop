@@ -2,7 +2,7 @@ package it.uom.cse;
 
 import java.util.Arrays;
 
-
+//mathematical function
 public class MathOperation {
 
     public static double add(double... operands)
